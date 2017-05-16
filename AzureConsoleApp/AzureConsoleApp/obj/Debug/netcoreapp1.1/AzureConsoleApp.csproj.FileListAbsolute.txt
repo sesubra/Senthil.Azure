@@ -1,0 +1,9 @@
+D:\Senthil\Azure\AzureConsoleApp\AzureConsoleApp\bin\Debug\netcoreapp1.1\AzureConsoleApp.deps.json
+D:\Senthil\Azure\AzureConsoleApp\AzureConsoleApp\bin\Debug\netcoreapp1.1\AzureConsoleApp.runtimeconfig.json
+D:\Senthil\Azure\AzureConsoleApp\AzureConsoleApp\bin\Debug\netcoreapp1.1\AzureConsoleApp.runtimeconfig.dev.json
+D:\Senthil\Azure\AzureConsoleApp\AzureConsoleApp\bin\Debug\netcoreapp1.1\AzureConsoleApp.dll
+D:\Senthil\Azure\AzureConsoleApp\AzureConsoleApp\bin\Debug\netcoreapp1.1\AzureConsoleApp.pdb
+D:\Senthil\Azure\AzureConsoleApp\AzureConsoleApp\obj\Debug\netcoreapp1.1\AzureConsoleApp.csprojResolveAssemblyReference.cache
+D:\Senthil\Azure\AzureConsoleApp\AzureConsoleApp\obj\Debug\netcoreapp1.1\AzureConsoleApp.AssemblyInfo.cs
+D:\Senthil\Azure\AzureConsoleApp\AzureConsoleApp\obj\Debug\netcoreapp1.1\AzureConsoleApp.dll
+D:\Senthil\Azure\AzureConsoleApp\AzureConsoleApp\obj\Debug\netcoreapp1.1\AzureConsoleApp.pdb
